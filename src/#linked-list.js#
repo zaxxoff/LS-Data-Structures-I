@@ -1,0 +1,30 @@
+class LinkedList {
+  constructor() {
+    this.head = null;
+    this.tail = null;
+    // Do not modify anything inside of the constructor
+  }
+  addToTail() {
+    
+  }
+  removeHead() {}
+  contains() {}
+  
+}
+
+module.exports = LinkedList;
+
+
+this.head = {}
+this.tail = {}
+
+
+[3]
+
+'a'
+
+this.head = 3
+this.tail = 'a'
+
+[3,'a']
+
